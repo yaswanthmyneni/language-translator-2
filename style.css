@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+
+body {
+    margin: 0%;
+    font-family: 'Padauk', sans-serif;
+}
+
+#heading {
+    height: 100px;
+    text-align: center;
+    background-color: aquamarine ;
+    margin-bottom: 5rem;
+}
+
+#heading h1 {
+    margin: 0px;
+    padding-top: 2rem;
+}
+
+#main-div {
+    width: 40%;
+    margin: auto;
+}
+
+#text-area {
+    width: 40vw;
+}
+
+#btn {
+    padding: 1rem;
+    background-color: aquamarine;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    border: none;
+}
+
+#output-div {
+    width: 40vw;
+    height: 100px;
+    border: 1px solid black;
+}
+
+#footer {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+
+#footer-bgc {
+    margin-top: 3rem;
+    padding: 0.3rem 0px;
+    background-color: aquamarine;
+}
+
+
+
