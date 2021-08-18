@@ -4,13 +4,14 @@
 body {
     margin: 0%;
     font-family: 'Padauk', sans-serif;
+    background: url("./images/pirate.jpg") no-repeat center center fixed;
 }
 
 #heading {
     height: 100px;
     text-align: center;
-    background-color: aquamarine ;
-    margin-bottom: 5rem;
+    font-size: 2rem;
+    margin-bottom: 3rem;
 }
 
 #heading h1 {
@@ -43,14 +44,21 @@ body {
 
 #footer {
     margin: auto;
-    width: 40%;
+    width: 70%;
     text-align: center;
 }
 
 #footer-bgc {
-    margin-top: 3rem;
-    padding: 0.3rem 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0.3rem 0rem;
     background-color: aquamarine;
+}
+
+#footer-bgc h2 {
+    margin-top:0.2rem;
+    margin-bottom: 0rem;
 }
 
 
