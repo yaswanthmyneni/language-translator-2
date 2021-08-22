@@ -1,4 +1,4 @@
-# Pirate Language Translator
+# Pirate Talk
 This is a language translator app using javascript, here we are translating english language to pirate language.
 
 # Build with:
